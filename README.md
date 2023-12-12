@@ -1,1 +1,4 @@
+PROJECT YOUTUBE LINK:
+https://youtu.be/1tGtv3HJQB0
 
+Creating Gada Electronics has been a deeply fulfilling journey for me, driven by a blend of nostalgia and a passion for innovation. The app's name, Gada Electronics, pays homage to a cherished Indian sitcom from my youth, where the main characters' shop shared the same title. This nod to the past adds a sentimental touch to the project, infusing it with a sense of familiarity and warmth. Throughout the development process, I encountered challenges that pushed me to refine my skills and overcome obstacles, ultimately enhancing the overall learning experience. What made this project particularly enjoyable was the broad scope of requirements, which allowed for unparalleled creativity. The freedom to explore different ideas and approaches made the entire process not only productive but also immensely enjoyable.
